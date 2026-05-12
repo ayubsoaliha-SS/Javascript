@@ -1,0 +1,1 @@
+Pass-by-Value: JavaScript passes primitive types (e.g., number, string, boolean) by value. A copy of the value is created, so changes to the copy do not affect the original value.
